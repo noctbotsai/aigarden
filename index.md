@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to aiGarden
 
-You can use the [editor on GitHub](https://github.com/noctbotsai/aigarden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project will consist of three phases:
+1. Deploy a quick garden monitoring system to regulate soil moisture and temperature
+2. Deploy a water gun turret system powered by the Jetson TX1
+3. Deploy an AI-based sentry that will deploy a drone to harass the garden critters.
 
 ### Markdown
 
