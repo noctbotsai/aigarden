@@ -5,7 +5,7 @@ The project will consist of three phases:
 2. Deploy a water gun turret system powered by the Jetson TX1
 3. Deploy an AI-based sentry that will deploy a drone to harass the garden critters.
 
-# Project Aubbie
+### Project Aubbie
 
 This project will make an automated windowfarm-aquaponics for the following plants:
 1. Sakura tomatoes
