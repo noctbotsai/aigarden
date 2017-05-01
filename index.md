@@ -7,7 +7,6 @@ The project will consist of three phases:
 3. Deploy an AI-based sentry that will deploy a drone to harass the garden critters.
 
 ### Project Aubbie
-
 This project will make an automated windowfarm-aquaponics for the following plants:
 1. Sakura tomatoes
 2. Strawberries
