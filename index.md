@@ -1,5 +1,6 @@
 ## Welcome to aiGarden
 
+### Project Seed
 The project will consist of three phases:
 1. Deploy a quick garden monitoring system to regulate soil moisture and temperature
 2. Deploy a water gun turret system powered by the Jetson TX1
